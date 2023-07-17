@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shumaita binte burhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shumaita binte burhan" height="30" width="40" /></a>
-<a href="https://fb.com/shumaita binte burhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shumaita binte burhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shumaita Binte Burhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shumaita binte burhan" height="30" width="40" /></a>
+<a href="https://fb.com/Shumaita Binte Burhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shumaita Binte Burhan" height="30" width="40" /></a>
 <a href="https://instagram.com/shumaita_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shumaita_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shmm1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Shmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shmm1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
